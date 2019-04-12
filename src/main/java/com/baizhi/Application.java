@@ -8,5 +8,6 @@ public class Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
+        System.out.println("12sa351ca3s612as6");
     }
 }
